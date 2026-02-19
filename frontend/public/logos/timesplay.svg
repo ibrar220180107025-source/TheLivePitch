@@ -1,0 +1,5 @@
+<svg width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="150" fill="#D32F2F" rx="10"/>
+  <text x="150" y="70" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Times</text>
+  <text x="150" y="110" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Play</text>
+</svg>
